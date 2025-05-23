@@ -1,0 +1,8 @@
+#goal
+std_msgs/Str action
+---
+#result
+std_msgs/Float64 meteres
+---
+#feedback
+std_msgs/Int32 feedback
